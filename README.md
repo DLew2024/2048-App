@@ -36,7 +36,7 @@ The game ends when there are no more moves available.
 
 ## Contact
 
-For support or feedback, please contact me at dlew.dev@gmail.com. We appreciate your input and are always looking to improve your gaming experience.
+For support or feedback, please contact me at dlew.dev@gmail.com. I appreciate your input and I am always looking to improve your gaming experience.
 
 ---
 
