@@ -30,7 +30,7 @@ The game ends when there are no more moves available.
 
 ## Getting Started
 
-1. **Visit**: Working !!!!
+1. **Visit**: https://dlew2024.github.io/2048-App/
 2. **Play**: Use arrow keys to merge the tiles.
 3. **Challenge**: Aim for the highest score and share your achievements with friends.
 
